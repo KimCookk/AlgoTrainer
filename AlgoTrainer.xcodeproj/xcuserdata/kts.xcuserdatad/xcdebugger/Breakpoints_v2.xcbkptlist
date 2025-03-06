@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3FBA88E8-499D-4ADD-87CB-70B1DC8D7A6F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D6FB188-06DE-47CE-B1E7-9CF1B7210EA4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InputCodingTest/1018.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "b1018()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "9D6FB188-06DE-47CE-B1E7-9CF1B7210EA4 - 9be8bb5a58e73455"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InputCodingTest.b1018() -&gt; ()"
+                  moduleName = "InputCodingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kts/Desktop/TigerCompany/Study/Swift/InputCodingTest/InputCodingTest/1018.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "6380">
+               </Location>
+               <Location
+                  uuid = "9D6FB188-06DE-47CE-B1E7-9CF1B7210EA4 - 9be8bb5a58e73455"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InputCodingTest.b1018() -&gt; ()"
+                  moduleName = "InputCodingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kts/Desktop/TigerCompany/Study/Swift/InputCodingTest/InputCodingTest/1018.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "6392">
+               </Location>
+               <Location
+                  uuid = "9D6FB188-06DE-47CE-B1E7-9CF1B7210EA4 - 9be8bb5a58e73455"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InputCodingTest.b1018() -&gt; ()"
+                  moduleName = "InputCodingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kts/Desktop/TigerCompany/Study/Swift/InputCodingTest/InputCodingTest/1018.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "6280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
