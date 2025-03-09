@@ -8,4 +8,4 @@
 import Foundation
 
 let excutor = FunctionExecutor()
-excutor.executeFunction(named: "b1436")
+excutor.executeFunction(named: "insertSort")
